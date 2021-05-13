@@ -1,0 +1,13 @@
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\bin\Debug\netcoreapp3.1\IRPF.exe
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\bin\Debug\netcoreapp3.1\IRPF.deps.json
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\bin\Debug\netcoreapp3.1\IRPF.runtimeconfig.json
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\bin\Debug\netcoreapp3.1\IRPF.runtimeconfig.dev.json
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\bin\Debug\netcoreapp3.1\IRPF.dll
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\bin\Debug\netcoreapp3.1\IRPF.pdb
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\obj\Debug\netcoreapp3.1\IRPF.csprojAssemblyReference.cache
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\obj\Debug\netcoreapp3.1\IRPF.AssemblyInfoInputs.cache
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\obj\Debug\netcoreapp3.1\IRPF.AssemblyInfo.cs
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\obj\Debug\netcoreapp3.1\IRPF.csproj.CoreCompileInputs.cache
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\obj\Debug\netcoreapp3.1\IRPF.dll
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\obj\Debug\netcoreapp3.1\IRPF.pdb
+D:\ASTRA\Área de Trabalho\Astro boy 2020\Faculdade\Quinto Semestre\FUNDAMENTOS DE TESTES DE SOFTWARE\EX1\IRPF\obj\Debug\netcoreapp3.1\IRPF.genruntimeconfig.cache
